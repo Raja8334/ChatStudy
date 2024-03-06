@@ -15,7 +15,7 @@ Client-server chat applications are software systems that enable real-time commu
 •	Each client has a unique identity, often represented by a username.
 •	Clients interact with the server to send and receive messages.
 ## 2. Communication Protocols:
-•	Communication between clients and servers often relies on established protocols. The choice of protocol influences the behavior of the chat application.
+•	Communication between clients and servers often relies on established protocols. The choice of protocol influences the behavior of the chat application. 
 •	TCP (Transmission Control Protocol):
 •	Provides reliable, connection-oriented communication.
 •	Ensures the ordered and error-free exchange of messages.
